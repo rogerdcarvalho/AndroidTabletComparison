@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <productid>1</productid>
+        <productname>Google Nexus 9</productname>
+        <productos>5.0</productos>
+        <productlength>228.2</productlength>
+        <productwidth>153.7</productwidth>
+        <productheight>8</productheight>
+        <productweight>425</productweight>
+        <productcores>2</productcores>
+        <productclockspeed>2.3</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>2048</productreswidth>
+        <productresheight>1536</productresheight>
+        <productscreen>8.9</productscreen>
+        <productimage>nexus</productimage>
+    </product>
+    <product>
+        <productid>2</productid>
+        <productname>Nvidia Shield</productname>
+        <productos>4.4</productos>
+        <productlength>221</productlength>
+        <productwidth>126</productwidth>
+        <productheight>9.2</productheight>
+        <productweight>390</productweight>
+        <productcores>4</productcores>
+        <productclockspeed>2.2</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>1920</productreswidth>
+        <productresheight>1200</productresheight>
+        <productscreen>8</productscreen>
+        <productimage>shield</productimage>
+    </product>
+    <product>
+        <productid>3</productid>
+        <productname>Dell Venue 8 7000</productname>
+        <productos>4.4.2</productos>
+        <productlength>215.9</productlength>
+        <productwidth>124.2</productwidth>
+        <productheight>6.1</productheight>
+        <productweight>305</productweight>
+        <productcores>4</productcores>
+        <productclockspeed>2.3</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>2560</productreswidth>
+        <productresheight>1600</productresheight>
+        <productscreen>8.4</productscreen>
+        <productimage>venue</productimage>
+    </product>
+</products>

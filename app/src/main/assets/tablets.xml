@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <productid>1</productid>
+        <productname>Google Nexus 9</productname>
+        <productos>5.0</productos>
+        <productlength>228.2</productlength>
+        <productwidth>153.7</productwidth>
+        <productheight>8</productheight>
+        <productmsrp>399</productmsrp>
+        <productweight>425</productweight>
+        <productcores>2</productcores>
+        <productclockspeed>2.3</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>2048</productreswidth>
+        <productresheight>1536</productresheight>
+        <productscreen>8.9</productscreen>
+        <productimage>nexus</productimage>
+        <productdescription>With a soft grip back and subtle curves, the Nexus 9 tablet strikes a slim profile that’s light and comfortable for work or play.</productdescription>
+    </product>
+    <product>
+        <productid>2</productid>
+        <productname>Nvidia Shield</productname>
+        <productos>4.4</productos>
+        <productlength>221</productlength>
+        <productwidth>126</productwidth>
+        <productheight>9.2</productheight>
+        <productmsrp>299</productmsrp>
+        <productweight>390</productweight>
+        <productcores>4</productcores>
+        <productclockspeed>2.2</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>1920</productreswidth>
+        <productresheight>1200</productresheight>
+        <productscreen>8</productscreen>
+        <productimage>shield</productimage>
+        <productdescription>The NVIDIA SHIELD tablet is a high-performance tablet that transforms into a serious gaming machine with the SHIELD controller and GRID game streaming service.</productdescription>
+    </product>
+    <product>
+        <productid>3</productid>
+        <productname>Dell Venue 8 7000</productname>
+        <productos>4.4.2</productos>
+        <productlength>215.9</productlength>
+        <productwidth>124.2</productwidth>
+        <productheight>6.1</productheight>
+        <productmsrp>349</productmsrp>
+        <productweight>305</productweight>
+        <productcores>4</productcores>
+        <productclockspeed>2.3</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>2560</productreswidth>
+        <productresheight>1600</productresheight>
+        <productscreen>8.4</productscreen>
+        <productimage>venue</productimage>
+        <productdescription>Meet the thinnest 8" tablet in the world standard with a gorgeous 8.4" 2560 x 1600 OLED infinity display and the Intel® RealSense™ Snapshot Depth Camera.</productdescription>
+    </product>
+    <product>
+        <productid>4</productid>
+        <productname>Samsung Tab S</productname>
+        <productos>4.4.2</productos>
+        <productlength>212.8</productlength>
+        <productwidth>125.6</productwidth>
+        <productheight>6.6</productheight>
+        <productmsrp>399</productmsrp>
+        <productweight>487</productweight>
+        <productcores>8</productcores>
+        <productclockspeed>1.9</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>2560</productreswidth>
+        <productresheight>1600</productresheight>
+        <productscreen>8.4</productscreen>
+        <productimage>samsung</productimage>
+        <productdescription>With two times the pixels of an HDTV, the screen also keeps everything clear by auto-adjusting brightness levels based on where you are and what you’re viewing.</productdescription>
+    </product>
+    <product>
+        <productid>5</productid>
+        <productname>Asus MemoPad 7</productname>
+        <productos>4.4.2</productos>
+        <productlength>189.3</productlength>
+        <productwidth>113.7</productwidth>
+        <productheight>9.6</productheight>
+        <productmsrp>149</productmsrp>
+        <productweight>295</productweight>
+        <productcores>4</productcores>
+        <productclockspeed>1.86</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>1280</productreswidth>
+        <productresheight>800</productresheight>
+        <productscreen>7</productscreen>
+        <productimage>memopad</productimage>
+        <productdescription>The ASUS MeMO Pad 7 was created for those looking for a value tablet. The 7-inch ASUS MeMO Pad 7 punches well above its weight, boasting features and specifications more commonly found on high-end tablets.</productdescription>
+    </product>
+    <product>
+        <productid>6</productid>
+        <productname>Lenovo Yoga Tablet 2</productname>
+        <productos>4.4.2</productos>
+        <productlength>210</productlength>
+        <productwidth>149</productwidth>
+        <productheight>7</productheight>
+        <productmsrp>249</productmsrp>
+        <productweight>419</productweight>
+        <productcores>4</productcores>
+        <productclockspeed>1.33</productclockspeed>
+        <productmemory>2</productmemory>
+        <productstorage>16</productstorage>
+        <productreswidth>1920</productreswidth>
+        <productresheight>1200</productresheight>
+        <productscreen>8</productscreen>
+        <productimage>lenovo</productimage>
+        <productdescription>Yoga Tablet 2’s innovative design places a battery cylinder and kickstand on the side of the device, shifting the center of gravity and opening up multiple ways to use it.</productdescription>
+    </product>
+</products>
